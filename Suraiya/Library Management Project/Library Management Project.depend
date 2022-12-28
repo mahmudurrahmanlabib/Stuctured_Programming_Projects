@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672205848 source:c:\users\avik\desktop\library management project\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+

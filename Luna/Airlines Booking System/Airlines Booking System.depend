@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672213879 source:c:\users\avik\downloads\airline_booking_in_c_with_source_code\airlinebooking-main\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+
+1672214549 source:c:\users\avik\desktop\airlines booking system\main.c
+

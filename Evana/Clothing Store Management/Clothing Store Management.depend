@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672219825 source:c:\users\avik\desktop\clothing store management\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672215358 source:c:\users\avik\downloads\vehicle_parking_management_system_in_c_programming_with_source_code\car park\carparar.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
